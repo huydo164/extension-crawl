@@ -6,4 +6,3 @@ if (selector1.length) {
     Images.push(element.querySelector('img').getAttribute('src'))
   }
 }
-console.log(Images)
