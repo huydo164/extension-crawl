@@ -9,5 +9,4 @@ click.addEventListener('click', async () => {
     }).join('')
   });
   elementCover.style.width = '400px'
-  a
 })
