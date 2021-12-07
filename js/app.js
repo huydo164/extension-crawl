@@ -15,7 +15,6 @@ if (document.getElementById('altImages')) {
 //case 2: horizon slider
 if (document.getElementById('booksImageBlock_feature_div')) {
   (async () => {
-    console.log(123)
     const selector2 = document.querySelector('.thumb-text.thumb a')
     selector2.click()
     const modal = document.getElementById('a-popover-content-2')
